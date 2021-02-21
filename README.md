@@ -1,7 +1,15 @@
 # Project number 11 Express.js: Note Taker    
 
+### Table of Contents:
+-[Description](#Description:)    
+-[Actions Itemts](#Action_Items:)    
+-[Images&Videos](#Images:)    
+-[Links](#Links:)    
+-[Given](#Given:)    
 
-## Action Items:
+## Description:
+
+## Action_Items:
 ### Development
 - [] Uses "fs" module
 - [] Uses db.json file
@@ -37,6 +45,16 @@
 - [] Required to submit: The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
 
+## Images:
+
+![item](link)
+
+## Links:    
+* [Deployed Heroku site](ADD LINK HERE)    
+* [Deployed github site](https://stevebecmpe.github.io/Note_Taker/)    
+* [Github Repo HTTPS link](https://github.com/SteveBecmpe/Note_Taker.git)    
+
+## Given:
 # Given Information: 11 Express.js: Note Taker    
 
 ## Your Task
